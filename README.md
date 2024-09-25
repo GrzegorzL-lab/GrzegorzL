@@ -15,7 +15,7 @@ I’m focused on developing my cybersecurity and administration skills, with a p
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis            | <a href="https://github.com/GrzegorzL-lab/Detection-Lab/tree/main">Detection Lab</a>
-| Network Traffic Monitoring and Attack Detection | 
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/GrzegorzL-lab/Detection-Lab/tree/main">Detection Lab</a>
 | Security Automation with Shuffle SOAR           | 
 | Incident Response Planning and Execution        |
 | Case Management with TheHive                    | 
