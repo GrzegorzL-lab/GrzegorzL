@@ -14,7 +14,7 @@ I’m focused on developing my cybersecurity and administration skills, with a p
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis            | 
+| SIEM Implementation and Log Analysis            | <a href="https://github.com/GrzegorzL-lab/Detection-Lab/tree/main">Detection Lab</a>
 | Network Traffic Monitoring and Attack Detection | 
 | Security Automation with Shuffle SOAR           | 
 | Incident Response Planning and Execution        |
@@ -37,5 +37,5 @@ I’m focused on developing my cybersecurity and administration skills, with a p
 
 
 ## Projects
-- **Detection Lab** set up in VirtualBox with two virtual NICs (one NAT and one internal network), utilizing Kali, REMnux, and FlareVM, with baseline snapshots configured. The lab includes both vulnerable and hardened Windows/Unix agents for hands-on exploration, with a non-Windows host OS providing an additional defensive layer against malware.
+- **<a href="https://github.com/GrzegorzL-lab/Detection-Lab/tree/main">Detection Lab</a>** set up in VirtualBox with two virtual NICs (one NAT and one internal network), utilizing Kali, REMnux, and FlareVM, with baseline snapshots configured. The lab includes both vulnerable and hardened Windows/Unix agents for hands-on exploration, with a non-Windows host OS providing an additional defensive layer against malware.
 
