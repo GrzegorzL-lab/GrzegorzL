@@ -3,11 +3,11 @@
 
 ## Introduction
 
-Computers captured my heart ever since my dad brought home an old Amiga when I was a kid. About three years ago I decided to break into the IT field. I am a recent-ish IT security enthusiast dedicated to solving complex problems and breaking stuff in VM's.
+Computers captured my heart ever since my dad brought home an old Amiga when I was a kid. About three years ago, I decided to switch career paths and break into the IT field. I’m a relatively new cybersec enthusiast, dedicated to solving complex problems and experimenting with breaking things in virtual machines.
 
 ## Objective
 
-I’m focused on developing my cybersecurity/admin skills and am particularly interested in the blue team side of things, with possible plans to explore malware analysis in the future.
+I’m focused on developing my cybersecurity and administration skills, with a particular interest in the blue team side of things and potential plans to explore malware analysis in the future.
 
 ## Skills
 
@@ -37,5 +37,5 @@ I’m focused on developing my cybersecurity/admin skills and am particularly in
 
 
 ## Projects
-- 
-- 
+
+
