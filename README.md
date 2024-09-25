@@ -22,20 +22,20 @@ I’m focused on developing my cybersecurity and administration skills, with a p
 | Scripting and Automation for Threat Mitigation  | 
 
 ## Tools
-
+> 🚧 **Page Under Construction** 🚧
 
 ### Network
-
+> 🚧 **Page Under Construction** 🚧
 
 ### Endpoint
-
+> 🚧 **Page Under Construction** 🚧
 
 ### SIEM
-
+> 🚧 **Page Under Construction** 🚧
 
 ## Certifications
-
+> 🚧 **Page Under Construction** 🚧
 
 ## Projects
 - **<a href="https://github.com/GrzegorzL-lab/Detection-Lab/tree/main">Detection Lab</a>** set up in VirtualBox with two virtual NICs (one NAT and one internal network), utilizing Kali, REMnux, and FlareVM, with baseline snapshots configured. The lab includes both vulnerable and hardened Windows/Unix agents for hands-on exploration, with a non-Windows host OS providing an additional defensive layer against malware.
-
+> 🚧 **Page Under Construction** 🚧
