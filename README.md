@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Computers have captured my heart ever since my dad brought home an Amiga when I was a kid. About three years ago, I decided to switch career paths and break into the IT field professionally. I’m a relatively new cybersec enthusiast, dedicated to solving complex problems and experimenting with breaking things in virtual machines.
+Computers have fascinated me ever since my dad brought home an Amiga when I was a kid. At 30, I decided to change career paths and pursue a professional role in IT. As a relatively new cybersecurity enthusiast, I am passionate about solving complex problems and experimenting with breaking things in virtual machines.
 
 ## Objective
 
